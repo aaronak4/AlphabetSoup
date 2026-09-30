@@ -1,3 +1,4 @@
+//Aaron Amdur-Kass 9/30/2026 Alphabet Soup Project AP CSA
 public class Soup {
     //these are instance variables 
     private String letters;
